@@ -36,7 +36,6 @@ foreach($checkAgainst as $controllerName => $actionNames)
 	}
 }
 
-
 	/**
 	 * sysem  config setting
 	 * @author Logan Cai (cailongqun [at] yahoo [dot] com [dot] cn)
